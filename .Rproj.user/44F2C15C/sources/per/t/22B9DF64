@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527889359571.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "796532561",
+    "id" : "22B9DF64",
+    "lastKnownWriteTime" : 1528133043,
+    "last_content_update" : 1528133043,
+    "path" : "C:/Users/education/Desktop/R workshop/R/Session_1.R",
+    "project_path" : "R/Session_1.R",
+    "properties" : {
+        "cursorPosition" : "187,29",
+        "scrollLine" : "161"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
