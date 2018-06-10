@@ -3,7 +3,7 @@ Research projects with R is a workshop that aims to give the fundamentals of a r
 
 **You can clone or download this worshop and share it. :)**
 
-Topics covered in the workshop are:
+# Topics covered in the workshop are:
 
 1. Project management
    *  Project structure.
@@ -37,6 +37,20 @@ Topics covered in the workshop are:
    * Geometric Objects
    * Aesthetic mappings
 
-This workshop was made base on some examples of the workshop [dataductos-r from datalatam](https://github.com/datalatam/dataductos-r)
+# Want to follow the examples and code?
+If you want to follow the examples showed in this workshop, make sure you have an updated R version. For this you can check on your R console typing this comand:
+
+> R.Version()$version.string
+
+It's better if you have the `3.5.0` version.
+
+Also you will need to install some packages. Try it with this command:
+
+> install.packages(c("nycflights13", "tidyr", "ggplot2", "dplyr")
 
 
+# Other things
+This workshop was made base on some examples of the workshop [dataductos-r from datalatam](https://github.com/datalatam/dataductos-r) and also following the [Hands on Programming with R](http://shop.oreilly.com/product/0636920028574.do) and [R for Data Science](http://r4ds.had.co.nz/) books. If you want to go deeper check those books.
+
+# How to clone this repository?
+You can use this repository freely and it can be used locally on your computer. In the option that it is in the left upper part that says "Clone or download" you can select the option *Download ZIP*. On your computer you just extract the files and ready! a copy of this repository you will have. If you want to clone it I already assume that you know how to use it ;)
