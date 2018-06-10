@@ -11,27 +11,27 @@ Topics covered in the workshop are:
    * Why R and not excel (or GUIs)?
    * RStudio Projects.
    
-2- R environment intro
+2. R environment intro
    * What is R and how it works?
    * RStudio / Packages
    * Projects with R Studio
    
-3- R programming
+3. R programming
    * Worflow basics (code style)
    * Data and structures
    * Import data
    * Loops and Functions
    
-4- Tidy data: why rectangular data?
+4. Tidy data: why rectangular data?
    * tidyr package
    * Tidyr verbs
    
-5- Transform data
+5. Transform data
    * dplyr package
    * pipes
    * verbs 
    
-6- Data visualization.
+6. Data visualization.
    * ggplot2 package
    * Layered grammar of graphic
    * Geometric Objects
