@@ -133,11 +133,11 @@ mi_funcion <- function(name) {
   cat("hola", name)
 }
 
-mi_funcion <- function(name = "Data Latam") {
+mi_funcion <- function(name = "REU's") {
   cat("hola", name)
 }
 
-mi_funcion <- function(name = "Patricia") {
+mi_funcion <- function(name = "Georgia") {
   resultado <- paste("hola", nombre)
   return(resultado)
 }
@@ -150,7 +150,7 @@ environment_function <- function(x){
 
 #------4.1 Loop over a dataset:
 #Let's say that you want to get the mean of the columns:
-mean()
+
 
 mean_per_year <- vector("numeric", ncol(data))
 for(i in seq_along(data)){
