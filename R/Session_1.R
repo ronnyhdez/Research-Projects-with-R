@@ -157,7 +157,6 @@ for(i in seq_along(data)){
   mean_per_year[[i]] <- mean(data[[i]])
 }
 
-##------4.1 Loop over a dataset:
 
 
 
